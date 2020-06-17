@@ -1,0 +1,7 @@
+{
+    "python.linting.lintOnSave": false,
+    "python.workspaceSymbols.rebuildOnFileSave": false,
+    "python.testing.autoTestDiscoverOnSaveEnabled": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+}
